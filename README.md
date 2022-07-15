@@ -1,2 +1,2 @@
-# Student-Registrartion-Using-Spring
-Student Registrartion Using Spring
+# Student-Registration-Using-Spring
+Student Registration Using Spring
